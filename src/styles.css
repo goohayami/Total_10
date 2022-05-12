@@ -3,6 +3,18 @@ body {
   background-color: blanchedalmond;
   margin: 0;
 }
+.tellME {
+  color: blanchedalmond;
+}
+
+.tellMeChange {
+  color: rgb(39, 37, 37);
+  font-size: 100px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  letter-spacing: 0.1em;
+}
 
 .header {
   margin-top: 0;
